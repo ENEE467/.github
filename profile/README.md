@@ -14,5 +14,5 @@ Once you have Github installed and you are reading this, go to the repository na
 
 ## Table of Contents:
 1. [Getting Started](https://github.com/ENEE467/documentation.git) : documentation required for the lab
-2. [Lab 6](https://github.com/ENEE467/Lab_6.git) 
-3. [Lab 7](https://github.com/ENEE467/Lab_7.git)
+2. [Lab 6](https://github.com/ENEE467/lab6.git)
+3. [Lab 7](https://github.com/ENEE467/lab7.git)
